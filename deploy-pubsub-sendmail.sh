@@ -109,3 +109,4 @@ else
 fi
 
 rm $ENVVARS_FILE
+d
